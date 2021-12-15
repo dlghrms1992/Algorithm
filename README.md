@@ -1,5 +1,5 @@
 # ToyProject
-앱만들기 - 루틴 가즈아 
+앱만들기 - With Go
 
 # 목표 
 - node express reactn ative mariaDB 사용
