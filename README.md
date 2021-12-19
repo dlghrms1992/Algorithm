@@ -16,3 +16,4 @@
  - 5. React Native 시뮬레이터 오류 발생 -> 2021-12-15
  - 6. 회원가입 디자인 끝 -> 2021-12-17
  - 7. Menu 디자인 시작 -> 2021-12-17
+ - 8. React-Native -> local.properties => sdk 경로 설정, Failed to lanch emulator error 발생-> 
